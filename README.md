@@ -15,26 +15,7 @@ A Streamlit app that leverages **LangChain** and **Groq LLM** to summarize conte
 ---
 
 ## Installation
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/yourusername/langchain-summarizer.git
-cd langchain-summarizer
-````
-
-2. Create a virtual environment (optional but recommended):
-
-```bash
-python -m venv venv
-# Activate the environment
-# Linux / Mac
-source venv/bin/activate
-# Windows
-venv\Scripts\activate
-```
-
-3. Install dependencies:
+1. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
