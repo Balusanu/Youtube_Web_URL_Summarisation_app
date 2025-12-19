@@ -47,10 +47,6 @@ langchain-summarizer/
 ├─ app.py                  # Main Streamlit app
 ├─ requirements.txt        # Python dependencies
 ├─ README.md               # Project documentation
-└─ .streamlit/
-   └─ config.toml          # Streamlit cloud configuration
-```
-
 ---
 
 ## Notes
